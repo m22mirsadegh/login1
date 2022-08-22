@@ -1,0 +1,24 @@
+
+@media screen and ( max-width:1189px){
+
+
+    .login{
+        display: grid;
+        grid-template-columns: 1fr ;
+        grid-template-rows: ;
+        grid-template-areas: section1 ;
+                              
+    }
+
+    .forget{
+        margin-left: 5rem;
+        /* font-size: calc(1rem+1vw); */
+        font-size: 1vw;
+    }
+
+    .section2 {
+        display:none ;
+    
+    }
+    
+}
